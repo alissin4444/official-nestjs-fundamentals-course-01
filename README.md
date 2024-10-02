@@ -1,5 +1,5 @@
 
-# NestJS Fundamentals Course
+# Official Nestjs Fundamentals Course - 01 - Create Rest API aplication
 ![cat-nestjs](https://github.com/user-attachments/assets/1ceaefe3-5041-4b1a-81b2-722e04925a2f)
 ------- 
 Atualize-se rapidamente com o NestJS. Domine os blocos de construção e os conceitos essenciais por trás da criação de seus próprios aplicativos de nível empresarial.
