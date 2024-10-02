@@ -4,7 +4,7 @@
 ------- 
 Atualize-se rapidamente com o NestJS. Domine os blocos de construção e os conceitos essenciais por trás da criação de seus próprios aplicativos de nível empresarial.
 
-## O projeto é o início do curso oficial de nestjs fundamental. Nele aprendi:
+## Official Nestjs Fundamentals Course - 01 - Create Rest API aplication
 - Instalar e configurar uma aplicação NestJS
 - Criação de controllers e services
 - Uso de rotas
